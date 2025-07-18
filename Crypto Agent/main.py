@@ -109,4 +109,4 @@ with col2:
 
 # Footer
 st.markdown("---")
-st.markdown("Created by **Sikandar Tahir** | Powered by Binance API and Gemini")
+st.markdown("Powered by Binance API and Gemini")
